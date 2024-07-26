@@ -13,6 +13,6 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 [Naqi's Website](https://naqi-boi.github.io)
 
 
-[Mahnam's Website](mahnamm07.github.io)
+[Mahnam's Website](https://mahnamm07.github.io)
 
-[Zuhairaa's Website](zuhaxraa.github.io)
+[Zuhairaa's Website](https://zuhaxraa.github.io)
