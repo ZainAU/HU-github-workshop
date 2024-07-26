@@ -18,3 +18,9 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 [Mahnam's Website](mahnamm07.github.io)
 
 [eman fatima 's website ](EMANFATIMA-GIF.github.io)
+
+[Mahnam's Website](https://mahnamm07.github.io)
+
+[Zuhairaa's Website](https://zuhaxraa.github.io)
+
+[mubashir](https://mubashir300.github.io/)
