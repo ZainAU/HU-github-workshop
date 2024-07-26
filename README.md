@@ -8,8 +8,9 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 
 [adeeva's website] (https://adeeva2006.github.io)
 
-[Ali's Website](ali-boii.github.io)
+[Ali's Website](https://ali-boii.github.io)
 
-[Naqi's Website](naqi-boi.github.io)
+[Naqi's Website](https://naqi-boi.github.io)
+
 
 [Mahnam's Website](mahnamm07.github.io)
