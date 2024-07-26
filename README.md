@@ -24,3 +24,6 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 [Zuhairaa's Website](https://zuhaxraa.github.io)
 
 [mubashir](https://mubashir300.github.io/)
+
+{alayna's website](https://alaynakhatri06.github.io)
+
