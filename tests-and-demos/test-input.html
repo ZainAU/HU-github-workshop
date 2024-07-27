@@ -1,19 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-</head>
-<body>
+  </head>
+  <body>
     <form>
-        <div>
-            <label for="text-input">Text</label>
-            <input type="text" id="text-input" placeholder="Enter text here">
-            
-            <input type="radio" name="radio" value="Option 1">
-            <button>Submit</button>
-        </div>
+      <div>
+        <label for="text-input">Text</label>
+        <input type="text" id="text-input" placeholder="Enter text here" />
+
+        <input type="radio" name="radio" value="Option 1" />
+        <text>Radio options</text>
+        <button>Submit</button>
+
+        <button type="button" onclick="alert('Button clicked!')">
+          Click Me
+        </button>
+
+        <input type="radio" id="male" name="gender" value="male" />
+        <label for="male">Male</label>
+        <input type="radio" id="female" name="gender" value="female" />
+        <label for="female">Female</label>
+      </div>
     </form>
-</body>
+  </body>
 </html>
