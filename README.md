@@ -15,9 +15,9 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 
 [Naqi's Website](https://naqi-boi.github.io)
 
-[Mahnam's Website](mahnamm07.github.io)
+[Mahnam's Website](https://mahnamm07.github.io)
 
-[eman fatima 's website ](EMANFATIMA-GIF.github.io)
+[eman fatima 's website ](https://EMANFATIMA-GIF.github.io)
 
 [Mahnam's Website](https://mahnamm07.github.io)
 
@@ -27,10 +27,10 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 
 [Alayna's website](https://alaynakhatri06.github.io)
 
-[Muhammad.anjarwala](anjarwala159.github.io)
+[Muhammad.anjarwala](https://anjarwala159.github.io)
 
-[Linta Zaheer](Linta596.github.io)
+[Linta Zaheer](https://Linta596.github.io)
 
 [ZUNAIRA](https://zunaira12345264.github.io/)
 
-[Batool's college counselling website](batoolabedi.github.io)
+[Batool's college counselling website](https://batoolabedi.github.io)
