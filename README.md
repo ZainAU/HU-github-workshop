@@ -9,7 +9,7 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 
 [Zain's Website](https://zainau.github.io)
 
-[adeeva's website] (https://adeeva2006.github.io)
+[Adeeva's website](https://adeeva2006.github.io)
 
 [Ali's Website](https://ali-boii.github.io)
 
@@ -25,11 +25,11 @@ Get markdown help [here](https://www.markdownguide.org/cheat-sheet/).
 
 [mubashir](https://mubashir300.github.io/)
 
-{alayna's website](https://alaynakhatri06.github.io)
+[Alayna's website](https://alaynakhatri06.github.io)
 
-[muhammad.anjarwala](anjarwala159.github.io)
+[Muhammad.anjarwala](anjarwala159.github.io)
 
-[Linta zaheer] (Linta596.github.io)
+[Linta Zaheer](Linta596.github.io)
 
 [ZUNAIRA](https://zunaira12345264.github.io/)
 
